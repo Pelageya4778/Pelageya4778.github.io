@@ -1,0 +1,130 @@
+.top {
+	display: inline-flex;
+	justify-content: space-between;
+	height: 75px;
+	width: 100%;
+}
+
+
+body {
+	font-family: Montserrat;
+	font-style: normal;
+font-weight: normal;
+	font-size: 14px;
+
+}
+
+#logo {
+	float: left;
+}
+
+.menu-list {
+	float: right;
+}
+.menu1 {
+	margin-right: 87px;
+
+}
+.menu2_1 {
+	margin-right: 20px;
+	font-weight: normal;
+}
+.menu2_1 a{
+		color: #4560F5;
+}
+.menu2_2 {
+	margin-right: 20px;
+}
+.menu2_2 a{
+		color: white;
+		font-weight: normal;
+		background: #4560F5;
+}
+.languaue {
+
+}
+nav ul{
+	
+	list-style: none;
+	display: inline-flex;
+	
+	color: #383971;
+	font-size: 16px;
+	font-weight: 600;
+
+
+}
+
+h1 {
+	font-weight: bold;
+font-size: 36px;
+color: #383971;
+}
+
+.content li {
+	font-weight: 500;
+font-size: 36px;
+color: #2D2E6A;
+}
+
+#champion {
+	width: 500px;
+height: 300px;
+}
+
+	footer ul{
+	color: white;
+	list-style: none;
+	display: inline-flex;
+
+		}
+ a {
+text-decoration: none;
+}
+
+footer {
+background-color: #1c1d5d;
+color: white;
+		
+}
+
+.footer-one {
+	display: inline-flex;
+	justify-content: space-between;
+	
+}
+
+.footer-two {
+	display: inline-flex; 
+	justify-content: space-between;
+	
+}
+
+
+#email {
+	color: white;
+	float: right;
+}
+
+.networks{
+	vertical-align: right;
+}
+
+.footer-menu a {
+	color: white;
+	margin-right: 170px;
+}	
+.footer-two a {
+	color: white;
+	}	
+	.en-ru {
+		text-align: right;
+	}
+
+	
+		
+
+
+
+
+	
